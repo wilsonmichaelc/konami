@@ -8,4 +8,5 @@ Konami()
 or
 
 var f = function(){alert("Hello!");}
+
 Konami([66, 65], f)
