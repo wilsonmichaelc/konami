@@ -7,6 +7,6 @@ Konami()
 
 or
 
-var f = function(){alert("Hello!");}
-
-Konami([66, 65], f)
+var f = function(){ alert("Hello!"); }
+var s = ["up arrow", "down arrow", "numpad 1", "f6", ".", "enter"];
+Konami(s, f)
